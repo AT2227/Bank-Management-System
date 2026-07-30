@@ -10,7 +10,7 @@ import javax.swing.table.DefaultTableModel;
 public class ViewAccounts 
 {
 
-    static String filepath = "accounts.txtG";
+    static String filepath = "accounts.txt";
 
     public static void viewAccountsWithScanner() 
     {
